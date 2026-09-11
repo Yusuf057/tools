@@ -12,8 +12,8 @@ def render_contact():
     
     ---
     
-    *   **LinkedIn:** [[Insert LinkedIn URL]](#)
-    *   **Email:** [[Insert Email Address]](mailto:your.email@example.com)
+    *   **LinkedIn:** [Mohammad Yusuf](https://linkedin.com/in/mohammad-yusuf-72156920b)
+    *   **Email:** [my2456743@gmail.com](mailto:my2456743@gmail.com)
     
     ---
     
