@@ -11,16 +11,16 @@ def main():
     st.sidebar.markdown("Navigate through our tools below:")
 
     page = st.sidebar.radio("Select a Tool:", [
-        "GC Content Calculator", 
         "ORF Finder", 
+        "GC Content Calculator", 
         "Primer Design Tool", 
         "Contact Us"
     ])
 
-    if page == "GC Content Calculator":
-        render_gc_calculator()
-    elif page == "ORF Finder":
+    if page == "ORF Finder":
         render_orf_finder()
+    elif page == "GC Content Calculator":
+        render_gc_calculator()
     elif page == "Primer Design Tool":
         render_primer_design()
     elif page == "Contact Us":
