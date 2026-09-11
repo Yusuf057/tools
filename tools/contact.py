@@ -8,7 +8,7 @@ def render_contact():
     This Bioinformatics Toolkit was developed by:
     
     ### Mohammad Yusuf
-    **Bioscience Student at Jamia Millia Islamia & AI Trainer**
+    **Bioinformatics Student at Jamia Millia Islamia & AI Trainer**
     
     ---
     
